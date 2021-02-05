@@ -2,9 +2,9 @@
 ### выполнил проект: SNT
 
 ## Технологии
--Html
--css
--bootstrap
--jQuerry
--Fancybox
+- Html
+- css
+- bootstrap
+- jQuerry
+- Fancybox
 - Swiper slider js
